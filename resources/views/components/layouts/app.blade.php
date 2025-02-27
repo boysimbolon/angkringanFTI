@@ -101,7 +101,7 @@
     </div>
 
     <!-- Page Content -->
-    <img src="{{ asset('ftilogos.jpeg') }}" class="logo" alt="Logo">
+    <img src="{{ asset('logowithoutbg.png') }}" class="logo" alt="Logo">
     <main class="main-content">
         {{ $slot }}
         <div class="footer">

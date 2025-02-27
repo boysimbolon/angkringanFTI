@@ -103,7 +103,7 @@
     <!-- Navbar -->
     <nav class="navbar">
         <div class="logo">
-            <img src="{{ asset('ftilogos.jpeg') }}" alt="Logo FTI">
+            <img src="{{ asset('logowithoutbg.png') }}" alt="Logo FTI">
         </div>
         <div class="menu" id="menu">
             @if(session('login_as') == 'bendahara')

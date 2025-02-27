@@ -7,7 +7,7 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
-    <link rel="icon" href="{{ asset('ftilogos.jpeg') }}" type="image/jpeg">
+    <link rel="icon" href="https://github.com/boysimbolon/angkringanFTI/blob/main/public/ftilogos.jpeg?raw=true" type="image/jpeg">
     <!-- Scripts -->
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <style>

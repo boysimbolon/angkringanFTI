@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link rel="icon" href="{{ asset('ftilogos.jpeg') }}" type="image/jpeg">
+    <link rel="icon" href="https://github.com/boysimbolon/angkringanFTI/blob/main/public/ftilogos.jpeg?raw=true" type="image/jpeg">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <script defer src="{{ asset('js/script.js') }}"></script>
     <style>

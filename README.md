@@ -1,5 +1,5 @@
-<p align="center"><a href="https://angkringanfti.rf.gd/" target="_blank"><img src="https://angkringanfti.rf.gd/ftilogos.jpeg" width="400" alt="FTI LOGO"></a></p>
-
+<p align="center"><a href="https://angkringanfti.rf.gd/" target="_blank">
+<img src="https://github.com/boysimbolon/angkringanFTI/blob/main/public/ftilogos.jpeg?raw=true" width="100" alt="FTI LOGO"></a></p>
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
